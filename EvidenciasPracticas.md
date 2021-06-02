@@ -12,7 +12,11 @@
 
 
 
-![00_1](Evidencias/Módulo 0/Ej_1/T_1/00_1.png)
+![00_1](Evidencias/Mod_0/Ej_1/T_1/00_1.png)
+
+
+
+
 
 
 
