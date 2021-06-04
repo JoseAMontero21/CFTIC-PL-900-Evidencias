@@ -1,3 +1,5 @@
+Alumno: José A. Montero
+
 
 
 # Module 0: Course introduction
@@ -341,6 +343,90 @@
 
 
 ![02_44](/Evidencias/Mod_2/Ej_4/T_1/02_44.png)
+
+
+
+![02_45](Evidencias/Mod_2/Ej_4/T_1/02_45.PNG)
+
+
+
+
+
+## Task #2: Import Data
+
+
+
+![02_46](Evidencias/Mod_2/Ej_4/T_2/02_46.png)
+
+
+
+![02_47](Evidencias/Mod_2/Ej_4/T_2/02_47.png)
+
+
+
+![02_48](Evidencias/Mod_2/Ej_4/T_2/02_48.png)
+
+
+
+![02_49](Evidencias/Mod_2/Ej_4/T_2/02_49.png)
+
+
+
+![02_50](Evidencias/Mod_2/Ej_4/T_2/02_50.png)
+
+
+
+![02_51](Evidencias/Mod_2/Ej_4/T_2/02_51.png)
+
+
+
+![02_52](Evidencias/Mod_2/Ej_4/T_2/02_52.png)
+
+
+
+![02_53](Evidencias/Mod_2/Ej_4/T_2/02_53.png)
+
+
+
+![02_54](Evidencias/Mod_2/Ej_4/T_2/02_54.PNG)
+
+
+
+![02_55](Evidencias/Mod_2/Ej_4/T_2/02_55.PNG)
+
+
+
+
+
+## Task #3: Verify Data Import
+
+
+
+![02_56](Evidencias/Mod_2/Ej_4/T_3/02_56.png)
+
+
+
+![02_57](Evidencias/Mod_2/Ej_4/T_3/02_57.png)
+
+
+
+![02_58](Evidencias/Mod_2/Ej_4/T_3/02_58.png)
+
+
+
+![02_59](Evidencias/Mod_2/Ej_4/T_3/02_59.PNG)
+
+
+
+![02_60](Evidencias/Mod_2/Ej_4/T_3/02_60.png)
+
+
+
+![02_61](Evidencias/Mod_2/Ej_4/T_3/02_61.PNG)
+
+
+
+![02_62](Evidencias/Mod_2/Ej_4/T_3/02_62.PNG)
 
 
 
